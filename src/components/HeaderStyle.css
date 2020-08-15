@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: coral;
+    height: 60px;
+    
+}
+
+.header a{
+    margin: 20px 10px;
+}
